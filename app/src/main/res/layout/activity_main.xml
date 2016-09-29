@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:weightSum="200"
+    android:gravity="center_vertical">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="50"
+        android:text="@string/cincuenta_porciento"
+        android:gravity="top|left" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="30"
+        android:text="@string/treinta_porciento"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="20"
+        android:text="@string/veinte_porciento"
+        android:gravity="bottom|right" />
+</LinearLayout>

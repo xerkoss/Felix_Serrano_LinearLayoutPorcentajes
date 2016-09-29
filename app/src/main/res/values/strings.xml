@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LinearLayoutPorcentajes</string>
+    <string name="cincuenta_porciento">50%</string>
+    <string name="treinta_porciento">30%</string>
+    <string name="veinte_porciento">20%</string>
+</resources>
